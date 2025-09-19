@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+            font-family: 'Inter', sans-serif;
+            background-image: url('https://laravel.com/assets/img/welcome/background.svg');
+            background-color: rgba(17, 16, 16, 0.988);
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+        }
+        
+        @media (max-width: 768px) {
+            body {
+                background-attachment: fixed;
+            }
+        }
+        
+        .glass-effect {
+            backdrop-filter: blur(20px);
+            background: rgba(255, 255, 255, 0.31);
+            border: 1px solid rgba(255, 255, 255, 0.358);
+        }
+        
+        .premium-gradient {
+            background: linear-gradient(135deg, #FF2D20 0%, #FF6B5B 100%);
+        }
+        
+        .text-gradient {
+            background: linear-gradient(135deg, #FF2D20, #FF6B5B);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .hover-lift {
+            transition: all 0.3s ease;
+        }
+        
+        .hover-lift:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 40px rgba(255, 45, 32, 0.3);
+        }
+        
+        .floating {
+            animation: floating 3s ease-in-out infinite;
+        }
+        
+        @keyframes floating {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+        }
+        
+        .fade-in {
+            animation: fadeIn 1s ease-in;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        /* Mobile Responsiveness */
+        @media (max-width: 768px) {
+            .mobile-padding {
+                padding-left: 1rem;
+                padding-right: 1rem;
+            }
+            
+            .mobile-text-center {
+                text-align: center;
+            }
+            
+            .mobile-hidden {
+                display: none;
+            }
+            
+            .mobile-full-width {
+                width: 100%;
+            }
+        }
