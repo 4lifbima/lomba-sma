@@ -2,7 +2,7 @@
     <section id="beranda" class="min-h-screen flex items-center justify-center pt-20">
         <div class="max-w-7xl mx-auto px-4 md:px-6 text-center">
             <div class="fade-in">
-                <h1 class="text-6xl sm:text-5xl md:text-6xl lg:text-8xl font-bold text-white mb-6 floating leading-tight">
+                <h1 class="text-4xl sm:text-5xl md:text-6xl lg:text-8xl font-bold text-white mb-6 floating leading-tight">
                     LOMBA TINGKAT
                     <span class="text-gradient block">SMA 2025</span>
                 </h1>
