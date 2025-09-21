@@ -15,9 +15,9 @@
                 <div class="text-center md:text-left">
                     <h4 class="text-white font-bold text-lg mb-4">Kontak</h4>
                     <div class="space-y-2 text-gray-300 text-sm md:text-base">
-                        <p><i class="fas fa-envelope mr-2 text-[#FF2D20]"></i>info@lombasma2025.id</p>
-                        <p><i class="fas fa-phone mr-2 text-[#FF2D20]"></i>+62 812-3456-7890</p>
-                        <p><i class="fas fa-building mr-2 text-[#FF2D20]"></i>Jakarta, Indonesia</p>
+                        <p><i class="fas fa-envelope mr-2 text-[#FF2D20]"></i>ksl.ung@gmail.com</p>
+                        <p><i class="fas fa-phone mr-2 text-[#FF2D20]"></i>+62 823-9493-9317</p>
+                        <p><i class="fas fa-building mr-2 text-[#FF2D20]"></i>Gorontalo, Indonesia</p>
                     </div>
                 </div>
                 

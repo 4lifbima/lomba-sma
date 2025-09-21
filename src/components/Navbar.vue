@@ -25,7 +25,7 @@
                 </button>
                 
                 <!-- Mobile Hamburger Button -->
-                <button id="mobile-menu-button" class="md:hidden text-white p-2 rounded-lg hover:bg-white hover:bg-opacity-10 transition-colors">
+                <button id="mobile-menu-button" class="md:hidden text-white px-3 py-2 rounded-lg hover:bg-white hover:bg-opacity-10 transition-colors">
                     <i class="fas fa-bars text-xl"></i>
                 </button>
             </div>

@@ -10,9 +10,9 @@
                     <button class="premium-gradient text-white px-8 py-3 md:px-10 md:py-4 rounded-xl font-bold text-lg md:text-xl hover-lift w-full sm:w-auto">
                         <i class="fas fa-trophy mr-2"></i>Daftar Sekarang
                     </button>
-                    <button class="glass-effect text-white px-8 py-3 md:px-10 md:py-4 rounded-xl font-semibold text-lg md:text-xl hover-lift w-full sm:w-auto">
+                    <a href="https://wa.me/6282394939317" class="glass-effect cursor-pointer text-white px-8 py-3 md:px-10 md:py-4 rounded-xl font-semibold text-lg md:text-xl hover-lift w-full sm:w-auto">
                         <i class="fas fa-phone mr-2"></i>Hubungi Kami
-                    </button>
+                    </a>
                 </div>
             </div>
         </div>

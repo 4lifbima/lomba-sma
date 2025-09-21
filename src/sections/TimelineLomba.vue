@@ -2,7 +2,7 @@
         <section id="jadwal" class="py-16 md:py-20">
         <div class="max-w-7xl mx-auto px-4 md:px-6">
             <div class="text-center mb-12 md:mb-16">
-                <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-4">Timeline Kompetisi</h2>
+                <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-4">Timeline Lomba</h2>
                 <p class="text-lg md:text-xl text-gray-200 px-4">Jadwal lengkap pelaksanaan lomba</p>
             </div>
             
